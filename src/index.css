@@ -1,0 +1,77 @@
+
+
+*{
+  margin:0;font-family: "Quicksand";color:#333;
+}
+
+.navbar{
+  padding: 20px;display:flex;align-items: center;max-width: 600px; margin: 0 auto;border-bottom: 1px solid #f2f2f2;
+}
+
+.navbar h1{
+  color: #f1356d;
+}
+
+.navbar .links{
+  margin-left: auto;
+}
+
+.navbar a{
+  margin-left: 16px;text-decoration: none;padding: 5px;
+}
+
+.navbar a:hover{
+  color: #f1356d;
+}
+
+.content{
+  max-width: 600px;margin: 40px auto; padding: 20px;
+}
+
+
+.container{
+	text-align: center;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-weight: bold;
+	 padding-top: 80px;color: rgb(5, 5, 78);
+}
+
+.container h1{
+	font-size: 50px;
+}
+
+.navlink{
+	padding-top: 40px; text-align: center;
+}
+
+.navlink a{
+	background-color:  rgb(5, 5, 78);color:white;
+	margin-right:10px;text-decoration: none;padding: 5px;
+	border-radius: 5px;font-size: 20px;
+}
+
+body{
+	
+	display: inline; height: 300px; width: 300px; text-align: center;
+}
+.images h1{
+	padding-top: 50px;color: rgb(5, 5, 78);font-family:Cambria;
+}
+
+.images img{
+	height: 300px; width: 300px;padding-top:50px;margin: 10px;
+}
+*{
+	padding: 0;margin: 0;box-sizing: border-box;
+}
+
+.snap h1{
+	padding:200px; font-size: 50px;color: rgb(5, 5, 78);
+}
+
+nav a.active{
+	font-weight: bolder;background-color:rgb(175, 148, 113);
+	color: black;
+}
+
+.notfound{
+	padding: 200px;font-size: 25px;color: brown;
+}
